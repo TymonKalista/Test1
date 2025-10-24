@@ -1,0 +1,10 @@
+{
+    "company": {
+        "name": "Facebook",
+        "parentcompanyname": "Meta"
+    },
+    "userbase(in billions)": 3.4,
+    "employees": 70000,
+    "IsAGoodSocialMedia": false,
+    "WhatCanYoudo": ["Scroll", "Post", "AddFriends"]
+}
