@@ -1,0 +1,44 @@
+[
+    {
+        "aplikacja":"Facebook",
+        "data wydania":2004,
+        "Czy jest popularna":true,
+        "Czy nadal działa":true,
+        "Główny kolor":"niebieski"
+    },
+    {
+        "aplikacja":"Discord",
+        "data wydania":2011,
+        "Czy jest popularna":true,
+        "Czy nadal działa":true,
+        "Główny kolor":"Filetowy"
+    },
+    {
+        "aplikacja":"Snapchat",
+        "data wydania":2011,
+        "Czy jest popularna":true,
+        "Czy nadal działa":true,
+        "Główny kolor":"Żółty"
+    },
+    {
+        "aplikacja":"Teams",
+        "data wydania":2013,
+        "Czy jest popularna":true,
+        "Czy nadal działa":true,
+        "Główny kolor":"Niebieski"
+    },
+    {
+        "aplikacja":"TikTok",
+        "data wydania":2019,
+        "Czy jest popularna":true,
+        "Czy nadal działa":true,
+        "Główny kolor":"Czarny"
+    },
+    {
+        "aplikacja":"YouTube",
+        "data wydania":2001,
+        "Czy jest popularna":true,
+        "Czy nadal działa":true,
+        "Główny kolor":"Czerwony"
+    }
+]
