@@ -1,0 +1,38 @@
+<portalespolecznosciowe>
+    <Facebook>
+        <DataZalozenia>2004</DataZalozenia>
+        <Wlasciciel>Meta</Wlasciciel>
+        <Userbase>3 billions</Userbase>
+        <Employees>52 534</Employees>
+    </Facebook>
+    <Instagram>
+        <DataZalozenia>2009</DataZalozenia>
+        <Wlasciciel>Meta</Wlasciciel>
+        <Userbase>3 billions</Userbase>
+        <Employees>20 000</Employees>
+    </Instagram>
+    <TikTok>
+        <DataZalozenia>2016</DataZalozenia>
+        <Wlasciciel>ByteDance</Wlasciciel>
+        <Userbase>1.5 billions</Userbase>
+        <Employees>38 800</Employees>
+    </TikTok>
+    <X>
+        <DataZalozenia>2006</DataZalozenia>
+        <Wlasciciel>X</Wlasciciel>
+        <Userbase>300 millions</Userbase>
+        <Employees>2300</Employees>
+    </X>
+    <Pinterest>
+        <DataZalozenia>2010</DataZalozenia>
+        <Wlasciciel>Bill Ready</Wlasciciel>
+        <Userbase>578 millions</Userbase>
+        <Employees>4 600</Employees>
+    </Pinterest>
+    <Tumblr>
+        <DataZalozenia>2007</DataZalozenia>
+        <Wlasciciel>Automattic</Wlasciciel>
+        <Userbase>135 millions</Userbase>
+        <Employees>220</Employees>
+    </Tumblr>
+</portalespolecznosciowe>
